@@ -23,8 +23,8 @@
 ---
 
 <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" width="100%" />
----
-## 🌸 what i do
+
+# 🌸 what i do
 
 💻 hackintosh / ios jailbreak chaos  
 💥 professionally breaking:
