@@ -1,24 +1,55 @@
-
 <h1 align="center">
-  <br>
-  Sleepy Souls
-  Shifu
-  <br>
+  💤 Snoozyi • Cafi 🌙
 </h1>
-<h4 align="center">A furry who has no life and likes breaking random software</a>.</h4>
 
 <p align="center">
-  <a >Furry</a> •
-  <a >Pan</a> •
-  <a >Arch linux user</a> •
-  <a >19</a> 
- </p>
-<p align="center">
-    <a href="https://discord.id/?prefill=809893424131211325">Add me on Discord!</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=professional+bug+creator+%3A3;breaking+software+since+birth;arch+btw" />
 </p>
 
-## What I do!
-* Hackintosh, iOS jailbreaks.
-* breaking software such as Windows, linux, macOS and creating error payloads
-* Is learning python, haskel and C++
-* And other stuff that I do
+<h4 align="center">
+  just a sleepy furry who enjoys breaking software and creating chaos ✨
+</h4>
+
+<p align="center">
+  🐾 furry • 🌈 pan • 🐧 arch linux • 🎂 20
+</p>
+
+<p align="center">
+  <a href="https://discord.id/?prefill=809893424131211325">
+    💌 add me on discord
+  </a>
+</p>
+
+---
+
+## 🌸 what i do
+
+💻 hackintosh / ios jailbreak chaos  
+💥 professionally breaking:
+- windows
+- linux
+- macos  
+
+🧠 currently learning:
+- python 🐍  
+- haskell  
+- c++  
+
+✨ side quests:
+- making weird payloads
+- experimenting with systems
+- causing controlled disasters (hopefully)
+
+---
+
+## 💤 fun facts
+
+- i will break something just to see what happens  
+- if it boots, it can be broken  
+- if it doesn't boot, i will make it worse  
+
+---
+
+<p align="center">
+  ✨ thanks for stopping by ✨
+</p>
