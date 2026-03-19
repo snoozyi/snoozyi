@@ -35,6 +35,12 @@
 - haskell  
 - c++  
 
+📄 Certified in!:
+
+- Google Cyber Security
+- IBM Artificial Intelligence (AI)
+- CompTIA A+
+
 ✨ side quests:
 - making weird payloads
 - experimenting with systems
@@ -47,9 +53,11 @@
 - i will break something just to see what happens  
 - if it boots, it can be broken  
 - if it doesn't boot, i will make it worse  
+- I don't wear a hat,  I wear a hoodie, it's gray :3
 
 ---
 
 <p align="center">
-  ✨ thanks for stopping by ✨
+  ✨ thanks for stopping by,✨
+  Meow! :3
 </p>
